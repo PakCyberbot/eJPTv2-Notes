@@ -19,6 +19,8 @@ Any value between **<>** is a placeholder. Any value between **[]** is optional.
 
 [Post Exploitation](post-exploitation.md)
 
+Check out INE's Penetration Testing Student version 2 Learning Path to prepare yourself for eJPTv2: [Penetration Testing Student v2](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student-v2)
+
 **You can follow me on:**
 
 - Twitter: [https://twitter.com/PakCyberbot](https://twitter.com/PakCyberbot)
